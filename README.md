@@ -1,2 +1,0 @@
-# casper
-Plasma Splash screen.
